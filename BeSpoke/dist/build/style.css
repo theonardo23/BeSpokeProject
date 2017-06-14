@@ -1,5 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700|Satisfy);
 
+ul,li{
+	margin:0;
+	padding:0;
+}
 html, body {
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
@@ -23,15 +27,30 @@ body {
 	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
-	word-spacing: -0.3em;
 }
+.bespoke-slide li {
+	display:block;
+	position: absolute;
+	font-weight: 300;
+	font-size: 1em;
+	line-height: 1;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+}
+li:nth-child(n+1){top:58%;}
+li:nth-child(n+2){top:62%;}
+li:nth-child(n+3){top:66%;}
+li:nth-child(n+4){top:70%;}
+li:nth-child(n+5){top:74%;}
+li:nth-child(n+6){top:78%;}
 
 .bespoke-slide h1 span {
 	font-family: 'Satisfy', serif;
 	font-weight: 400;
 	font-size: 40%;
 	text-transform: none;
-	word-spacing: 0;
 	letter-spacing: 0;
 	display: block;
 	opacity: 0.4;
