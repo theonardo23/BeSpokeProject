@@ -1,0 +1,7 @@
+{
+  "name": "presentation-tips-to-survive-in-jungle",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
