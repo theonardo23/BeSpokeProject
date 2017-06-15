@@ -1,0 +1,27 @@
+Tanggal : 13 Juni 2017
+Apa yang akan dikerjakan hari ini:
+- mengerjakan tahap inisialisasi projek Berupa generasi kode.
+
+Kesulitan yang ditemukan : -
+
+Tanggal :14 Juni 2017
+Apa yang telah dikerjakan kemarin :
+- Projek telah berhasil digenerate.
+Apa yang akan dikerjakan hari ini:
+- Membuat animasi yang berbeda-beda untuk transisi tiap slide.
+- Membuat aplikasi dapat berganti background untuk setiap slide.
+- Menambahkan konten bagian 1
+- Menambahkan konten bagian 2
+Kesulitan yang dihadapi : Pergerjaan menggunakan bespoke FX pada awalnya sulit dilakukan karena repo bespoke FX memiliki sdikit kendala terhadap eksistensi file.
+
+Tanggal : 15 Juni 2017
+Apa yang telah dikerjakan kemarin : 
+- Membuat animasi yang berbeda-beda untuk transisi tiap slide.
+- Membuat aplikasi dapat berganti background untuk setiap slide.
+- Menambahkan konten bagian 1
+- Menambahkan konten bagian 2
+Apa yang akan dikerjakan hari ini :
+- Menambahkan sound kedalam projek
+- Membuat background yang berbeda untuk slide pertama dan terakhir.
+- Untuk setiap slide dapat menggunakan background secara berulang-ulang.
+
